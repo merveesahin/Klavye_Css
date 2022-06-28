@@ -1,0 +1,153 @@
+.buton{
+    font-size: 25px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    border-radius: 10;
+    left: 2px;
+}
+.buton2{
+    font-size: 25px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: 6px;
+    border-radius: 10;
+
+}
+.buton3{
+    font-size: 25px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: 12px;
+    border-radius: 10;
+}
+.buton4{
+    font-size: 25px;
+    position: relative;
+    width: 120px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: 0px;
+    border-radius: 10;
+    background-color: #085196;
+}
+.buton5{
+    font-size: 25px;
+    position: relative;
+    width: 160px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: 6px;
+    border-radius: 10;
+    background-color: #085196;
+}
+.buton6{
+    font-size: 25px;
+    position: relative;
+    width: 180px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: 13px;
+    border-radius: 10;
+    background-color: #085196;
+}
+.buton7{
+    font-size: 25px;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: -6px;
+    border-radius: 10;
+    color:#491ab8;
+    border-color: #161515;
+    background-color: #298ec9;
+}
+.buton8{
+    font-size: 25px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    left: 2px;
+    top: -6px;
+    border-radius: 10; 
+    color:#491ab8;
+    border-color: #161515;
+    background-color: #298ec9;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232323;
+    min-height: 100vh;
+}
+.buton:hover {
+    color: rgb(17, 17, 17);
+    background: #4fe912;
+    box-shadow: 0 0 50px black;
+    filter: drop-shadow(0 0 2px black) contrast(2) brightness(2);
+}
+.buton2:hover {
+    color: #111;
+    background: #e7178a;
+    box-shadow: 0 0 50px black;
+    filter: drop-shadow(0 0 2px black) contrast(2) brightness(2);
+}
+.buton3:hover {
+    color: #111;
+    background: #e4e00d;
+    box-shadow: 0 0 50px black;
+    filter: drop-shadow(0 0 2px black) contrast(2) brightness(2);
+}
+.buton4:hover {
+    filter: contrast(10) brightness(10);
+}
+.buton5:hover {
+    filter: contrast(10) brightness(10);
+}
+.buton6:hover {
+    filter: contrast(10) brightness(10);
+}
+.buton7:hover {
+    filter: contrast(10) brightness(10);
+}
+.buton8:hover {
+    filter: contrast(10) brightness(10);
+}
